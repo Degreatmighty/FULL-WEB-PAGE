@@ -71,7 +71,8 @@
     .section_3 .tabs-content ul.nav-tabs {
         align-items: center;
         justify-content: center;
-        margin-top: 10px; 
+        margin-top: 10px;
+        gap: 20px;
     } 
 
     .section_3 .tab-content .section_3_img{
